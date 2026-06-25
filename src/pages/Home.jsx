@@ -4,9 +4,9 @@ import CarCard from '../components/CarCard'
 import { cars } from '../data/cars'
 
 const heroImages = [
-  'https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=1800&q=95&auto=format',
-  'https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=1800&q=95&auto=format',
-  'https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=1800&q=95&auto=format',
+  'https://tse3.mm.bing.net/th/id/OIP.QNjdly_54Vg5N3nP6k3S0gHaEK?rs=1&pid=ImgDetMain&o=7&rm=3',
+  'https://media.cntraveller.in/wp-content/uploads/2023/02/Ar_Vk_Jimny_Front-3-4th-Rocky-Mountain-Shot_Kinetic-Yellow_Bluish-Black-Roof_V2-min-scaled.jpg',
+  'https://i.pinimg.com/originals/f5/d8/9c/f5d89c591b98a404e9915cb6088eb20c.jpg?nii=t',
 ]
 
 const stats = [
